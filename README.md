@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-# 👋 Hi, I'm Ganesh Raathod
+# I'm Ganesh Raathod 
 
 🎯 Java Full Stack Developer | 🚀 Tech Enthusiast  
 I love building full-stack applications and solving real-world problems through code.
 
-### 📬 Contact Me
+ 📬 Contact Me
 <p align="left">
   <a href="mailto:saiganeshslt@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://www.linkedin.com/in/sai-ganesh-naik-b-3ba42424b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
