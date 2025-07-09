@@ -5,6 +5,11 @@
 🎯 Java Full Stack Developer | 🚀 Tech Enthusiast  
 I love building full-stack applications and solving real-world problems through code.
 
+### 📧 Contact Me:
+[![Gmail](https://img.shields.io/badge/Gmail-saiganeshslt@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:saiganeshslt@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sai-ganesh-naik-b-3ba42424b/)
+[![GitHub](https://img.shields.io/badge/GitHub-thakuuurganesh-black?style=for-the-badge&logo=github)](https://github.com/thakuuurganesh)
+
 ## 🛠️ Languages and Tools
 Click any icon to learn more:
 
