@@ -33,7 +33,17 @@ Click any icon to learn more:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thakuuurganesh&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thakuuurganesh&layout=compact&theme=radical)
 
-## 🔗 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/YOUR-LINK)
-- [Portfolio](https://YOUR-PORTFOLIO.vercel.app)
+## 🔗 Connect with me:
+
+<p align="left">
+  <a href="https://twitter.com/saichouhan_1" target="_blank">
+    <img src="https://img.icons8.com/color/48/twitter--v1.png" alt="Twitter" width="40" style="vertical-align: middle;"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sai-ganesh-naik-b-3ba42424b/" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="40" style="vertical-align: middle;"/>
+  </a>
+  <a href="https://www.instagram.com/sai_chouhan_1?igsh=YXdrbWh3YTc2MjZm" target="_blank">
+    <img src="https://img.icons8.com/color/48/instagram-new.png" alt="Instagram" width="40" style="vertical-align: middle;"/>
+  </a>
+</p>
 
