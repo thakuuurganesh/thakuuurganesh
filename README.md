@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# I'm Ganesh Raathod 
+# I'm Ganesh Thaakur
 
 🎯 Java Full Stack Developer | 🚀 Tech Enthusiast  
 I love building full-stack applications and solving real-world problems through code.
